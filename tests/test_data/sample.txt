@@ -1,0 +1,5 @@
+This is a sample document for testing purposes.
+It contains multiple lines of text.
+The quick brown fox jumps over the lazy dog.
+Python is a programming language.
+RAG stands for Retrieval-Augmented Generation.
