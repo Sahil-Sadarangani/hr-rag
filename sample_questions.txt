@@ -1,0 +1,9 @@
+Try these questions in the app:
+
+1. How many annual leave days are employees eligible for?
+2. What should employees do if they receive an unexpected MFA prompt?
+3. What documents must a new employee submit before joining?
+4. Within how many days must expense claims be submitted?
+5. What is the first response time target for a P1 support ticket?
+6. Can employees upload confidential documents to personal cloud drives?
+7. What happens if a P1 issue is unresolved for more than 2 hours?
