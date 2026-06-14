@@ -147,18 +147,3 @@ python -m pytest tests/ -v
 ```
 
 46 tests covering document loading, text splitting, vector store (with mocked dependencies), and answer generation.
-
-## Interview Explanation
-
-This system follows the standard RAG workflow:
-
-1. Load documents from the document corpus.
-2. Split long documents into overlapping chunks.
-3. Convert each chunk into an embedding vector.
-4. Store vectors and metadata in ChromaDB.
-5. Convert the user question into an embedding.
-6. Retrieve the most semantically similar chunks.
-7. Pass retrieved chunks to the LLM with a grounded prompt.
-8. Display the generated answer and source documents.
-
-The key benefit of RAG is that the LLM does not rely only on its training data. It answers using the retrieved internal documents, which improves factual grounding and allows source attribution.
