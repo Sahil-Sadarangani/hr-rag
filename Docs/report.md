@@ -11,7 +11,7 @@ A Retrieval-Augmented Generation (RAG) system that ingests internal company docu
 ## 2. Directory Structure
 
 ```
-orbrick-rag-assistant/
+hr-rag/
 ├── app.py                     # Streamlit UI — main entry point
 ├── ingest.py                  # CLI ingestion script (load → chunk → embed → store)
 ├── requirements.txt           # Python dependencies

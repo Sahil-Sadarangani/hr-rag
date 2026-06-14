@@ -58,7 +58,7 @@ The app can use an OpenAI chat model when `OPENAI_API_KEY` is configured. If no 
 Open VS Code and select:
 
 ```text
-File → Open Folder → orbrick-rag-assistant
+File → Open Folder → hr-rag
 ```
 
 ### 2. Create virtual environment
