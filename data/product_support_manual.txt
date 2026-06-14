@@ -1,0 +1,16 @@
+Product Support Manual
+
+Support Channels
+Customers can contact support through email, live chat, and the customer portal. Priority customers may also receive phone support during business hours.
+
+Ticket Priority Levels
+Priority P1 means the production system is unavailable for most users. P2 means a major feature is degraded but a workaround exists. P3 means a minor issue affects limited users. P4 means a general question, documentation request, or feature suggestion.
+
+Response Time Targets
+P1 tickets should receive first response within 30 minutes. P2 tickets should receive first response within 2 business hours. P3 tickets should receive first response within 1 business day. P4 tickets should receive first response within 2 business days.
+
+Escalation
+If a P1 issue remains unresolved for more than 2 hours, the support engineer must escalate it to the engineering on-call team and notify the customer success manager.
+
+Knowledge Base
+Support engineers should document recurring issues in the knowledge base. Each article should include symptoms, cause, resolution steps, affected versions, and validation checks.

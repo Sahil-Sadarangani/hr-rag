@@ -1,0 +1,16 @@
+Employee Onboarding Guide
+
+Before Joining
+New employees receive an offer letter, background verification form, and joining checklist by email. The employee must submit identity proof, address proof, academic certificates, previous employment documents, and bank details before the joining date.
+
+Day One
+On the first day, HR conducts orientation, explains company policies, and introduces the employee to the reporting manager. IT provides laptop access, email credentials, collaboration tools, and VPN setup instructions.
+
+First Week
+During the first week, the manager defines role expectations, introduces team members, and assigns initial tasks. The employee must complete information security training and HR compliance training within seven calendar days.
+
+Probation
+The standard probation period is six months. During probation, performance, collaboration, attendance, and ownership are reviewed by the manager. Confirmation depends on successful completion of probation review.
+
+Buddy Program
+Each new employee is assigned a buddy for the first 30 days. The buddy helps the employee understand team practices, meeting routines, documentation standards, and internal communication channels.

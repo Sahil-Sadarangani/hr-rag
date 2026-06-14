@@ -1,0 +1,19 @@
+IT Security Policy
+
+Password Rules
+Employees must use strong passwords with at least 12 characters, including uppercase letters, lowercase letters, numbers, and symbols. Passwords must not be shared with colleagues or written on sticky notes near workstations.
+
+Multi-Factor Authentication
+Multi-factor authentication is mandatory for email, VPN, cloud storage, code repositories, and all production systems. Employees must immediately report any MFA prompt that they did not initiate.
+
+Device Security
+Company laptops must be locked when unattended. Full disk encryption must remain enabled. Employees must not disable antivirus, firewall, or endpoint protection tools installed by the IT team.
+
+Data Classification
+Internal documents are classified as Public, Internal, Confidential, or Restricted. Confidential and Restricted data must not be uploaded to personal cloud drives or sent through personal email accounts.
+
+Incident Reporting
+Suspected phishing, malware, data leakage, lost devices, or unauthorized access must be reported to IT Security within one hour of discovery. Employees should forward suspicious emails to security@company.example.
+
+Remote Work
+Employees working remotely must connect using the approved VPN when accessing internal systems. Public Wi-Fi should be avoided unless VPN is active.
